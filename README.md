@@ -9,12 +9,11 @@
 - 🛠 Passionate about **web development**, **MERN stack**, and **problem-solving**.  
 - 🏆 **2nd Rank in Institute Level Conference on Emerging Technology (2022)**.  
 - 📚 Currently learning **Cloud Computing, Advanced Java, and System Design**.  
-- 👨‍💻 Working on AI-powered **TeachMate** and improving my **React.js & Next.js** skills.  
 
 ---
 
 ## 📌 Featured Projects  
-🔹 [**Task-Manager**](https://github.com/Aniket-373/Task-Manager) – MERN-based task management system.  
+🔹 [**ByteBasket**](https://github.com/Aniket-373/ByteBasket) – MERN-based performs CRUD Operations.  
 🔹 [**Shopperstop**](https://github.com/Aniket-373/Shopperstop) – Full-fledged e-commerce app with React & Tailwind.  
 🔹 [**RecipeRealm**](https://github.com/Aniket-373/RecipeRealm) – Recipe-sharing app with Firebase & Tailwind.  
 🔹 [**Movie Recommendation System**](https://github.com/Aniket-373/Movie-Recommendation-System) – ML-powered movie suggester.  
